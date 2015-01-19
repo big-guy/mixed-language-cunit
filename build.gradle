@@ -5,6 +5,5 @@ apply plugin: 'cunit'
 model {
     components {
         lib1(NativeLibrarySpec)
-        lib2(NativeLibrarySpec)
     }
 }
